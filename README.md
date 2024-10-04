@@ -2,12 +2,11 @@
 
 intro to github
 
+second commit
 
 another change
 
 new idea
 
-<<<<<<< HEAD
-=======
 new branch change lala
->>>>>>> issue2_another_idea
+
